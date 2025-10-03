@@ -49,18 +49,4 @@ The website was built following a structured development plan:
 4.  **AOS Animations:** The AOS library was configured, and scroll animations were applied to various elements to create a dynamic feel.
 5.  **Responsive Design:** A mobile-friendly hamburger menu was implemented, and media queries were used extensively to ensure the layout is fully responsive and looks great on all screen sizes.
 
-## How to Run the Project Locally
 
-To run this project on your local machine, follow these simple steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    ```
-2.  **Navigate to the project directory:**
-    ```bash
-    cd your-repo-name
-    ```
-3.  **Open the `index.html` file in your web browser.**
-
-For the best development experience, it is recommended to use a live server extension in your code editor (like VS Code's "Live Server") to automatically reload the page when you make changes to the code.
